@@ -1,0 +1,38 @@
+/* Inserta tu CSS aqui */
+.rojo{
+	border: 2px solid #ee3e64;
+	background-color: #ee3e64;
+	width: 200px;
+	height: 200px;
+	left: 0;
+	top:0;
+
+}
+.azul{
+	border: 2px solid #44accf;
+	background-color: #44accf;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	right: 250px;
+	top: 212px;
+	bottom:190px;
+	left: 214px;
+}
+.verde{
+	border: 2px solid #b7d84b;
+	background-color: #b7d84b;
+	width: 200px;
+	height: 200px;
+	left: 0;
+	bottom: 0;
+}
+.amarillo{
+	border: 2px solid #FFFF00;
+	background-color: #FFFF00;
+	width: 200px;
+	height: 200px;
+	positio
+	right: 0;
+	bottom: 0;
+}
